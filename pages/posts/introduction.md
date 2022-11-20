@@ -1,7 +1,7 @@
 ---
-title: Blogs
+title: Introduction
 date: 2022/11/19
-description: View blogs written by the me.
+description: An introduction of mine.
 tag: Blogs
 author: Dhananjay
 ---
