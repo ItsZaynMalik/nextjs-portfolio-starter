@@ -24,4 +24,4 @@ My Favourite Projects :
 - [ST-Manager](https://stmanager.tech)
 
 
-> Dream. Design. Develop. – Joshua
+> Dream. Design. Develop. ~ Joshua
