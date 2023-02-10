@@ -15,7 +15,3 @@ author: Dhananjay
 
 ### Ahh well its time to say those gangsters namess!!
 
-- Ujwal ( Son of Manikandan )
-- Apex ( His mom too calls him Apex lol )
-- Again ( Son of the Great Jothiiiii!!! )
-- Radha ( Son of Saji Mon)
