@@ -24,5 +24,3 @@ My Favourite Projects :
 - [Esterio-API](https://esterio.gq)
 - [ST-Manager](https://stmanager.tech)
 
-
-> Dream. Design. Develop. ~ Joshua
