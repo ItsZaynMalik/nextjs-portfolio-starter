@@ -8,19 +8,19 @@ author: Dhananjay
 
 # Myself
 
-## Hey you!
+## Dhananjay!
 
-#### I like working on different kind of Projects and also with People from Different Countrys. Well am a Teenager - Student. I love school. Oh that would be lie if i say that, I love my School Friends< 3. My everyday is incomplete without them, It's the best dayss, To do crazy things together is just too goddamn funn>>>.
+#### I like working on different kind of Projects and also with People from Different Countrys. Used to be an active developer for the past 2years on Discord, Due to lack of time im not able to work on Discord Projects and Other projects. Hopefully i can comeback active someday.
 
-> Having Great Friends is the best feeling in the world. ~ Dhananjay
+> Coding like poetry should be short and concise.
 
 My Favourite Projects :
 - Esterio
-- ST-Manager
+- ST-Manager 
 - Gipsy-Music (Discontinued)
 
 ## Links
 
-- [Esterio-API](https://esterio.gq)
-- [ST-Manager](https://stmanager.tech)
+- [Esterio-API](https://esterio.gq) (Inactive)
+- [ST-Manager](https://stmanager.xyz)
 
